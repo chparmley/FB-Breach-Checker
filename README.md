@@ -5,6 +5,6 @@ Data files are too large to host on GitHub
 
 Please download the whole package here:
 
-unzip and open terminal inside the folder.
+unzip and open terminal inside the folder.  
 Run with:
 `python3 checker.py`
